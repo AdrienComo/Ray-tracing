@@ -37,7 +37,6 @@ This code uses Qt : https://www.qt.io/download
 
 ### Screenshots
 ----
-![Screenshot](Capture_d_écran_du_2022-01-13_19-15-43.png) <br>
 ![Screenshot](data/img_1.jpg) <br>
 ![Screenshot](data/img_2.png) <br>
 ![Screenshot](data/img_3.png) <br>
